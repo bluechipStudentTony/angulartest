@@ -1,0 +1,26 @@
+{
+  "name": "angulartest",
+  "version": "1.0.0",
+  "description": "angular js test for new stuff",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bluechipStudentTony/angulartest.git"
+  },
+  "keywords": [
+    "angular",
+    "js",
+    "javascript",
+    "html",
+    "css"
+  ],
+  "author": "Anthony Egwu Jr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bluechipStudentTony/angulartest/issues"
+  },
+  "homepage": "https://github.com/bluechipStudentTony/angulartest#readme"
+}
